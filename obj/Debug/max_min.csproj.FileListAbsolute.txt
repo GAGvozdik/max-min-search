@@ -1,0 +1,10 @@
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\D_14_max_min\max_min\obj\Debug\max_min.csprojAssemblyReference.cache
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\D_14_max_min\max_min\obj\Debug\max_min.Form1.resources
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\D_14_max_min\max_min\obj\Debug\max_min.Properties.Resources.resources
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\D_14_max_min\max_min\obj\Debug\max_min.csproj.GenerateResource.cache
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\D_14_max_min\max_min\obj\Debug\max_min.csproj.CoreCompileInputs.cache
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\D_14_max_min\max_min\bin\Debug\max_min.exe.config
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\D_14_max_min\max_min\bin\Debug\max_min.exe
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\D_14_max_min\max_min\bin\Debug\max_min.pdb
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\D_14_max_min\max_min\obj\Debug\max_min.exe
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\D_14_max_min\max_min\obj\Debug\max_min.pdb
